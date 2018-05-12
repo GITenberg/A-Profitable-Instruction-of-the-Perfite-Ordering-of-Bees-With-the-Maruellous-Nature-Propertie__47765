@@ -1,10 +1,16 @@
 _repo: A-Profitable-Instruction-of-the-Perfite-Ordering-of-Bees-With-the-Maruellous-Nature-Propertie__47765
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47765-h/images/cover.jpg
 creator:
   author:
     agent_name: Hyll, Thomas
     gutenberg_agent_id: '44461'
     url: http://www.gutenberg.org/2009/agents/44461
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47765#A-Profitable-Instruction-of-the-Perfite-Ordering-of-Bees-With-the-Maruellous-Nature-Propertie_
 gutenberg_issued: '2014-12-24'
 gutenberg_type: Text
 identifiers:
